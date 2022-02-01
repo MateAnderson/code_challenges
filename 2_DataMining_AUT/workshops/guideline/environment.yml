@@ -1,0 +1,19 @@
+name: divar-nlp-workshop
+dependencies:
+  - python=3.8
+  - pip=20.*.*
+  - scikit-learn
+  - gensim
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - pip:
+    - pandas-profiling[notebook]
+    - ipykernel
+    - tqdm
+    - git+https://github.com/sobhe/hazm.git@e0502a0d8d9a4ad32ff8872f83614e0f323b8289
+    - bs4
+    - MulticoreTSNE
+    - wurlitzer
+    - fastparquet
