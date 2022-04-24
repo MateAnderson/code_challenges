@@ -1,2 +1,5 @@
 # code_challenges
 Here I post questions and answers to the challenges I have participated recently
+
+# Certifications
+![image](./Certificates/Coding_Competition_Certificate.JPG)
